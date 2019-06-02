@@ -1,0 +1,8 @@
+money = 10000
+coupon = True
+if money > 63000:
+    print("Buy monhun")
+elif coupon:
+    print("Buy monhun")
+else:
+    print("Buy don't starve")
