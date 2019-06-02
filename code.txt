@@ -1,3 +1,4 @@
+# 돈이 63000이 있거나 쿠폰이 있으면 몬헌을 사고 아니면 돈스타브를 사라는 문장
 money = 10000
 coupon = True
 if money > 63000:
@@ -6,3 +7,4 @@ elif coupon:
     print("Buy monhun")
 else:
     print("Buy don't starve")
+    
